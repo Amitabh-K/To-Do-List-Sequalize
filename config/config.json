@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "todolist",
+    "username": "zeb82bsd4r6c6jec",
+    "password": "gb0t4l01nkxvyr33",
+    "database": "qp9em4lr77btyvqz",
     "host": "127.0.0.1",
     "port": 3306,
     "dialect": "mysql"
