@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "zeb82bsd4r6c6jec",
-    "password": "gb0t4l01nkxvyr33",
+    "JawsDB_URL":"mysql://zeb82bsd4r6c6jec:gb0t4l01nkxvyr33@sulnwdk5uwjw1r2k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/qp9em4lr77btyvqz",
     "database": "qp9em4lr77btyvqz",
     "host": "sulnwdk5uwjw1r2k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "zeb82bsd4r6c6jec",
+    "password": "gb0t4l01nkxvyr33",    
     "port": 3306,
-    "dialect": "mysql2"
+    "dialect": "sql"
   }
 }
