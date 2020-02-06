@@ -5,6 +5,6 @@
     "database": "qp9em4lr77btyvqz",
     "host": "sulnwdk5uwjw1r2k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
-    "dialect": "mysql12"
+    "dialect": "mysql2"
   }
 }
