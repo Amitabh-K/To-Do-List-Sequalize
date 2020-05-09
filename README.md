@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/ To-Do-List-Sequalize.svg)](http://hits.dwyl.com/Amitabh-K/ To-Do-List-Sequalize)
+
 # To-Do-List-Sequalize
 
 A full stack application with the front end implemented with html, CSS, and Bootstrap, and the back end with Node.js and Express. Data is stored in a MySQL database. HTML templating is done handled with the use of Handlebars.
