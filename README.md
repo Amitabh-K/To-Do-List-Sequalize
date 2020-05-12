@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Amitabh-K/ To-Do-List-Sequalize.svg)](http://hits.dwyl.com/Amitabh-K/ To-Do-List-Sequalize)
+[![HitCount](http://hits.dwyl.com/Amitabh-K/To-Do-List-Sequalize.svg)](http://hits.dwyl.com/Amitabh-K/To-Do-List-Sequalize)
 
 # To-Do-List-Sequalize
 
